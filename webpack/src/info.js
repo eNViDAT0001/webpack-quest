@@ -1,0 +1,1 @@
+export default 'innet text from info.js'
